@@ -2,6 +2,8 @@
 - [йylme](https://herneh.github.io/jylme/) — my personal notes on the Mari language (mhr, марий йылме), along with bits of information about a few other languages that Iʼm interested in.
 - [my sauna has been struck by lightning](https://herneh.github.io/uralic-phrasebook/) — a phrasebook (or rather a book of sentences) in Uralic languages. Itʼs a collaborative project, so go there and check if and how you can help, if youʼre interested.
 - …and some more coming soon.
+
+My name is Piotr. Welcome to **Herneh Kapustanke** and enjoy your reading!
 <!---
 herneh/herneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
