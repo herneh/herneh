@@ -4,7 +4,7 @@
 - [йылдыр-йылдыр](https://herneh.github.io/jyldyr-jyldyr/) — […]
 - …and some more coming soon.
 
-My name is Piotr. Welcome to **Herneh Kapustanke** and enjoy your reading!
+Welcome to **Herneh Kapustanke** and enjoy your reading!
 <!---
 herneh/herneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
